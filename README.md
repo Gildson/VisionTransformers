@@ -1,3 +1,3 @@
 # VisionTransformers
 
-O projeto Vision Transformers (ViT) consiste em códigos gerados durante o processo de aprendizado do ViT, abordando classificação de imagens, criação de imagens a partir de texto, segmentação de imagens e detecção de objetos.
+The Vision Transformers (ViT) project consists of codes generated during the ViT learning process, covering image classification, creating images from text, image segmentation and object detection.
